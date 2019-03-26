@@ -1,0 +1,6 @@
+#Run FreeRTOS on linux
+build:
+make
+run: 
+./build/freertos.elf
+
